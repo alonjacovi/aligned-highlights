@@ -34,6 +34,8 @@ Unfortunately, Github does not allow colored text in their web markdown viewer. 
 
 ![alt text](https://github.com/alonjacovi/aligned-highlights/blob/master/example_output.png?raw=true)
 
+[My image](alonjacovi.github.com/aligned-highlights/img/example_output.png)
+
 
 ## Disclaimer
 
