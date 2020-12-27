@@ -15,7 +15,7 @@ pip install allennlp==1.3.0
 And then run these scripts:
 ```bash
 bash download_ag.sh  # download the AG News dataset
-bash train_sequence_classification.sh  # fine-tune a RoBERTa-Large model on AG News
+bash train_sequence_classification.sh  # fine-tune a RoBERTa-Large model on AG News (change the gpu parameter inside the script/jsonnet)
 ```
 
 Then, run the `contrastive_highlights.ipynb` jupyter notebook on the trained model to derive the contrastive highlights for it.
