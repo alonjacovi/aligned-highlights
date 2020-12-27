@@ -22,7 +22,7 @@ Then, run the `contrastive_highlights.ipynb` jupyter notebook on the trained mod
 
 Unfortunately, Github does not allow colored text in their web markdown viewer. I use text coloring to highlight the text inside the jupyter notebook. `example_output.png` shows the jupyter notebook output with color:
 
-[Colored output of the jupyter notebook example](alonjacovi.github.com/aligned-highlights/img/example_output.png)
+[Colored output of the jupyter notebook example](https://github.com/alonjacovi/aligned-highlights/blob/main/example_output.png)
 
 This color will show properly when you open the notebook through jupyter. 
 
