@@ -30,6 +30,10 @@ bash train_sequence_classification.sh  # fine-tune a RoBERTa-Large model on AG N
 
 Then, run the `contrastive_highlights.ipynb` jupyter notebook on the trained model to derive the contrastive highlights for it.
 
+Unfortunately, Github does not allow colored text in their web markdown viewer. I use text coloring to highlight the text inside the jupyter notebook. `example_output.png` shows the jupyter notebook output with color:
+
+![alt text](https://github.com/alonjacovi/aligned-highlights/blob/master/example_output.png?raw=true)
+
 
 ## Disclaimer
 
