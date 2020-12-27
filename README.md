@@ -6,7 +6,7 @@ Paper link: https://arxiv.org/abs/2006.01067
 
 Contact: alonjacovi at gmail (please feel free to contact me for any question or discussion)
 
-![hey...](https://placehold.it/15/FF0000/000000?text=+)
+![#FF0000](https://placehold.it/15/FF0000/000000?text=testtest)
 
 Abstract:
 
