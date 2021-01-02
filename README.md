@@ -1,6 +1,6 @@
 # Aligning Faithful Interpretations with their Social Attribution
 
-This repository has the code for the paper. The code here is a *simple and minimalistic* implementation of the contrastive highlights procedure described in the paper.
+This repository has the code for the TACL 2020 paper of the same name. The code here is a *simple and minimalistic* implementation of the contrastive highlights procedure described in the paper.
 
 ## Getting Started
 
